@@ -3,7 +3,6 @@
 void loop(){
   
   Serial.println("Hola Mundo");
-  Serial.println("Ya se tardo ¬¬");
   
 }
 
